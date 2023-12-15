@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 <?xml version=“1.0“ encoding=“UTF-8“?>
 <SchuleHHBK>
 	<Klasse Name= "AIA11">
+		<Schueler>
+			<Vorname>Magnus</Vorname>
+			<LKFach>Mathe</LKFach>
+			<Notenpunkte>15</Notenpunkte>
+		</Schueler>
 	</Klasse>
 	<Klasse Name= "AIA31">
+		<Schueler>
+			<Vorname>Erik</Vorname>
+			<LKFach>Informatik</LKFach>
+			<Notenpunkte>3</Notenpunkte>
+		</Schueler>
 	</Klasse>
 </SchuleHHBK>
